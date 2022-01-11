@@ -1,0 +1,1 @@
+<p ><i class="fa fa-skype" aria-hidden="true"></i>remontstroika</p>

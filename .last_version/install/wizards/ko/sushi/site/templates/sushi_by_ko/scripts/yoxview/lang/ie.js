@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "DГєn",
+    "Help" : "Cabhair",
+    "FirstImage" : "Go dti an pictiГєr amhain",
+    "LastImage" : "Go dti an pictiГєr seo caite",
+    "StartStopSlideShow" : "Spraoi/Sos taispeГЎntas",
+    "Pause" : "Sos",
+    "Play" : "Spraoi",
+    "Prev" : "roimhe seo",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "is gaire",
+    "PrevImage" : "Roimhe seo pictiГєr",
+    "NextImage" : "PictiГєr is gaire",
+    "Loading" : "luchtГє",
+    "CloseHelp" : "Dun cabhair",
+    "HelpText" : "Feachann tГє an pictiГєri le do keybhord:<br/><br/>ClГ©/DГ©is saighde: Prev/Next<br/>SPACEBAR: Next<br/>ENTER: Spraoi/ Sos taispeГЎntas<br/>ESCAPE: Dun leathanach<br/>HOME/END: Go dti an pictiГєr amhain/seo caite<br/>H - An leathanach cabhair",
+    "Slideshow" : "Spraoi taispeЧ‘ntas",
+    "OriginalContext": "D'fhonn i gcomhthГ©acs bunaidh"
+}

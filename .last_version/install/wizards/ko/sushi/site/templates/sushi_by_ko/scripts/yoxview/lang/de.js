@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "Schliessen",
+    "Help" : "Hilfe",
+    "FirstImage" : "Zum ersten Bild",
+    "LastImage" : "Zum letzten Bild",
+    "StartStopSlideShow" : "Start/Pause Slideshow",
+    "Pause" : "Pause",
+    "Play" : "Abspielen",
+    "Prev" : "ZurГјck",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "Vor",
+    "PrevImage" : "Vorheriges Bild",
+    "NextImage" : "NГ¤chstes Bild",
+    "Loading" : "Laden",
+    "CloseHelp" : "Schliesse Hilfe",  
+    "HelpText" : "Die Gallerie kann mit dem Keyboard verwendet werden:<br/><br/>LINKS/RECHTS PFEILE: ZurГјck/Vor<br/>SPACE: NГ¤chstes<br/>ENTER: Start/Stop Slideshow<br/>ESCAPE: Schliesse Gallerie<br/>HOME/END: Erstes/Letztes Bild<br/>H - Diese Hilfe",
+    "Slideshow" : "Abspielen",
+    "OriginalContext": "Anzeige im originalen Zusammenhang"
+}

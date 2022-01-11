@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "StГ¤ng",
+    "Help" : "HjГ¤lp",
+    "FirstImage" : "Till fГ¶rsta bilden",
+    "LastImage" : "Till sista bilden",
+    "StartStopSlideShow" : "Spela/Pausa bildspelet", 
+    "Pause" : "Pausa",
+    "Play" : "Bildspel",
+    "Prev" : "FГ¶regГҐende",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "NГ¤sta",
+    "PrevImage" : "FГ¶regГҐende bild",
+    "NextImage" : "NГ¤sta bild",
+    "Loading" : "Laddar",
+    "CloseHelp" : "StГ¤ng hjГ¤lp",  
+    "HelpText" : "Detta galleri kan navigeras med hjГ¤lp av tangentbordet: <br/>VГ„NSTER/HГ–GER PIL: Tillbaka/NГ¤sta<br/>MELLANSLAG: NГ¤sta bild<br/>ENTER: Starta/pausa bildspelet<br/>ESCAPE: StГ¤ng galleriet<br/>HOME/END: FГ¶rsta/Sista bilden<br/>H - Denna hjГ¤lppanel", 
+    "Slideshow" : "Bildspel",
+    "OriginalContext": "View in original context"
+}

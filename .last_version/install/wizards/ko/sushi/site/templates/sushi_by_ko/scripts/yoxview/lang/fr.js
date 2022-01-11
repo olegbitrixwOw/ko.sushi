@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "Fermer",
+    "Help" : "Aide",
+    "FirstImage" : "PremiГЁre image",
+    "LastImage" : "DerniГЁre image",
+    "StartStopSlideShow" : "DГ©marrer/Pause diaporama",
+    "Pause" : "Pause",
+    "Play" : "DГ©marrer",
+    "Prev" : "PrГ©cГ©dente",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "Suivante",
+    "PrevImage" : "Image prГ©cГ©dente",
+    "NextImage" : "Image suivante",
+    "Loading" : "Chargement",
+    "CloseHelp" : "Fermer l'aide",  
+    "HelpText" : "La navigation peut se faire avec le clavier :<br/><br/>FlГЄches GAUCHES/DROITES: PrГ©cГ©dente/Suivante<br/>Espace: Suivante<br/>EntrГ©e: DГ©marrer/ArrГЄter<br/>Echap: Fermer<br/>HOME/FIN: PremiГЁre/DerniГЁre image<br/>H - Afficher ce panneau d'aide",
+    "Slideshow" : "DГ©marrer",
+    "OriginalContext": "Voir dans le contexte original"
+}

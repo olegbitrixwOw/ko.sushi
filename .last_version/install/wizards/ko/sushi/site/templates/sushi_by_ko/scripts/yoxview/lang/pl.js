@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "Zamknij",
+    "Help" : "Pomoc",
+    "FirstImage" : "Do pierwszego obrazka",
+    "LastImage" : "Do ostatniego obrazka",
+    "StartStopSlideShow" : "Odtwarzaj/wstrzymaj pokaz slajdГіw",
+    "Pause" : "Wstrzymaj",
+    "Play" : "Odtwarzaj",
+    "Prev" : "Poprzedni",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "NastД™pny",
+    "PrevImage" : "Poprzedni obrazek",
+    "NextImage" : "NastД™pny obrazek",
+    "Loading" : "ЕЃadowanie",
+    "CloseHelp" : "Zamknij pomoc",  
+    "HelpText" : "MoЕјesz sterowaД‡ galeriД… za pomocД… klawiatury:<br/><br/>LEWA/PRAWA STRZAЕЃKA: poprz. / nast. obrazek<br/>SPACJA: nastД™pny<br/>ENTER: rozpocznij/zatrzymaj pokaz slajdГіw<br/>ESCAPE: Zamknij galeriД™<br/>OME/END: pierwszy / ostatni obrazek<br/>H - panel pomocy",
+    "Slideshow" : "Pokaz",
+    "OriginalContext": "Zobacz w oryginalnym kontekЕ›cie"
+}

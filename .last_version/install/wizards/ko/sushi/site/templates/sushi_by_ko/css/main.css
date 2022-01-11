@@ -1,0 +1,96 @@
+
+.clearfix:before,
+.clearfix:after{
+	content: " ";
+	display: table;
+}
+.clearfix:after {clear: both;}
+.container{
+	
+}
+
+
+ 
+.logo{
+	float: left;
+	margin-right: 146px;
+}
+
+.h_title{
+	float: left;
+	
+	margin-right: 180px;
+	
+}
+.h_title h1{
+	font: 24px/41px roboto regular;
+	text-transform: uppercase;
+}
+.h_title a{
+	font: 19px/0px roboto regular, sans-serif;
+    color: #76c858;
+    float: right;
+}
+
+.menu{
+	background: #76c858;
+	z-index: 1;
+	
+}
+.menu::after {
+	content: '';
+    position: absolute;
+    left: -54px;
+    bottom: 0px;
+    border: 20px solid transparent;
+    border-right: 35px solid #76c858;
+	
+}
+.nav{
+	
+}
+
+.nav li{
+	float: left;
+	
+	    margin-left: 40px;
+	
+}
+.nav li a{
+	color: #fff;
+}
+
+.slider-top{
+	margin-top: -21px;
+	border-top: 3px solid #76c858;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.slider-top img{
+	width: 100%;
+}
+.slider_container {
+    position: relative;
+}
+.slider_container img{
+    max-width: 100%;
+}
+.next_button,
+.prev_button{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #fff;
+    font-size: 46px;
+    border-radius: 10px;
+    padding: 0 25px;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+    top: 40%;
+}
+.next_button{
+    right: 20px;
+}
+.prev_button{
+    left: 20px;
+}

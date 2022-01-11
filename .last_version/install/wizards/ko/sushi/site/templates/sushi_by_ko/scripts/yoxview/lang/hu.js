@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "BezГЎrГЎs",
+    "Help" : "SГєgГі",
+    "FirstImage" : "Az elsЕ‘ kГ©phez",
+    "LastImage" : "Az utolsГі kГ©phez",
+    "StartStopSlideShow" : "LejГЎtszГЎs indГ­tГЎsa/leГЎllГ­tГЎsa",
+    "Pause" : "SzГјnet",
+    "Play" : "LejГЎtszГЎs",
+    "Prev" : "ElЕ‘zЕ‘",
+    "PinInfo" : "Info rГ¶gzГ­tГ©se",
+    "UnpinInfo" : "Info feloldГЎsa",
+    "Next" : "KГ¶vetkezЕ‘",
+    "PrevImage" : "ElЕ‘zЕ‘ kГ©p",
+    "NextImage" : "KГ¶vetkezЕ‘ kГ©p",
+    "Loading" : "TГ¶ltГ©s",
+    "CloseHelp" : "SГєgГі bezГЎrГЎsa",  
+    "HelpText" : "A kГ©pgalГ©ria billentyЕ±zet segГ­tsГ©gГ©vel is navigГЎlhatГі:<br/><br/>BALRA/JOBBRA NYГЌL: ElЕ‘zЕ‘/KГ¶vetkezЕ‘<br/>SZГ“KГ–Z: KГ¶vetkezЕ‘<br/>ENTER: VetГ­tГ©s indГ­tГЎsa/leГЎllГ­tГЎsabr/>ESCAPE: GalГ©ria bezГЎrГЎsa<br/>HOME/END: ElsЕ‘/UtolsГі kГ©p<br/>H - Ez a sГєgГі",
+    "Slideshow" : "LejГЎtszГЎs",
+    "OriginalContext": "MegtekintГ©s eredeti kГ¶rnyezetben"
+}

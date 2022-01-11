@@ -1,0 +1,1 @@
+<p class="phone"><i class="fa fa-mobile" aria-hidden="true"></i>8 (910) 200-18-21</p>

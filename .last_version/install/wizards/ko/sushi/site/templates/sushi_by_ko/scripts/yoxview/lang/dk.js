@@ -1,0 +1,21 @@
+{
+    "Direction" : "ltr",
+    "Close" : "Luk",
+    "Help" : "HjГ¦lp",
+    "FirstImage" : "GГҐ til fГёrste billede",
+    "LastImage" : "GГҐ til sidste billede",
+    "StartStopSlideShow" : "Afspil/Pause slideshow",
+    "Pause" : "Pause",
+    "Play" : "Afspil",
+    "Prev" : "Forrige",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "NГ¦ste",
+    "PrevImage" : "Forrige billede",
+    "NextImage" : "NГ¦ste billede",
+    "Loading" : "IndlГ¦ser",
+    "CloseHelp" : "Luk hjГ¦lp",  
+    "HelpText" : "Du kan naviger i galleriet via keyboard:<br/><br/>VENSTRE/HГ?JRE piletaster: Forrige/NГ¦ste<br/>MELLEMRUM: NГ¦ste<br/>ENTER: Start/Stop slideshow<br/>ESCAPE: Luk galleriet<br/>HOME/END: FГёrste/Sidste billede<br/>H - Dette hjГ¦lpe panel",
+    "Slideshow" : "Play",
+    "OriginalContext": "Vis i original kontekst"
+}

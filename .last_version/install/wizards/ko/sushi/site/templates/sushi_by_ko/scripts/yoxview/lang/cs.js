@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "ZavЕ™Г­t",
+    "Help" : "NГЎpovД›da",
+    "FirstImage" : "Na prvnГ­ obrГЎzek",
+    "LastImage" : "Na poslednГ­ obrГЎzek",
+    "StartStopSlideShow" : "Spustit/Zastavit pЕ™ehrГЎvГЎnГ­",
+    "Pause" : "Zastavit",
+    "Play" : "Spustit",
+    "Prev" : "PЕ™edchozГ­",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "NГЎsledujГ­cГ­",
+    "PrevImage" : "PЕ™edchozГ­ obrГЎzek",
+    "NextImage" : "NГЎsledujГ­cГ­ obrГЎzek",
+    "Loading" : "NahrГЎvГЎm",
+    "CloseHelp" : "ZavЕ™Г­t nГЎpovД›du",  
+    "HelpText" : "Galerii mЕЇЕѕete prochГЎzet pomocГ­ klГЎves:<br/><br/>Е IPKY VLEVO/VPRAVO: PЕ™edchozГ­/NГЎsledujГ­cГ­ obrГЎzek<br/>MEZERNГЌK: DalЕЎГ­<br/>ENTER: Spustit/zastavit pЕ™ehrГЎvГЎnГ­<br/>ESC: ZavЕ™Г­t galerii<br/>HOME/END: PrvnГ­/poslednГ­ obrГЎzek<br/>H - VyvolГЎnГ­ nГЎpovД›dy",
+    "Slideshow" : "PЕ™ehrГЎvГЎnГ­",
+    "OriginalContext": "UkГЎzat v pЕЇvodnГ­m umГ­stД›nГ­"
+}

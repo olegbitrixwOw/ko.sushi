@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "Tancar",
+    "Help" : "Ajuda",
+    "FirstImage" : "Anar al principi",
+    "LastImage" : "Anar al final",
+    "StartStopSlideShow" : "ComenГ§ar/Pausar",
+    "Pause" : "Pausar",
+    "Play" : "ComenГ§ar",
+    "Prev" : "Anterior",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "SegГјent",
+    "PrevImage" : "Imatge anterior",
+    "NextImage" : "SegГјent imatge",
+    "Loading" : "Carregant",
+    "CloseHelp" : "Tancar l'ajuda",  
+    "HelpText" : "Pot navegar per la presentaci&oacute; utilitzant el teclat:<br/><br/>Fletxes ESQUERRA/DRETA: Anterior/Seg&uuml;ent<br/>SPACEBAR: Seg&uuml;ent<br/>ENTER: Comen&ccedil;ar/Parar la presentaci&oacute;<br/>ESCAPE: Tancar<br/>HOME/END: Principi/Final<br/>H - Mostra aquesta ajuda",
+    "Slideshow" : "ComenГ§ar",
+    "OriginalContext": "Veure al context original"
+}

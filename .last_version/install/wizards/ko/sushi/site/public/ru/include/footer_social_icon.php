@@ -1,0 +1,1 @@
+<a href="#" target="_blank"><span class="vk_icon"></span></a> <a href="#" target="_blank"><span class="ok_icon"></span></a> <a href="#" target="_blank"><span class="insta_icon"></span></a>

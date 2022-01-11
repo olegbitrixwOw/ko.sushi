@@ -1,0 +1,21 @@
+п»ї{
+    "Direction" : "ltr",
+    "Close" : "Fechar",
+    "Help" : "Ajuda",
+    "FirstImage" : "Ir para a primeira imagem",
+    "LastImage" : "Ir para a ultima imagem",
+    "StartStopSlideShow" : "Iniciar/Pausar slideshow",
+    "Pause" : "Pausar",
+    "Play" : "Iniciar",
+    "Prev" : "Anterior",
+    "PinInfo" : "Pin info",
+    "UnpinInfo" : "Unpin info",
+    "Next" : "PrГіximo",
+    "PrevImage" : "Imagem anterior",
+    "NextImage" : "PrГіxima imagem",
+    "Loading" : "Carregando",
+    "CloseHelp" : "Fechar ajuda",  
+    "HelpText" : "VocГЄ pode navegar na galeria usando o seu teclado:<br/><br/>Setas ESQUERDA/DIREITA: Anterior/PrГіxima<br/>EspaГ§o: PrГіxima<br/>ENTER: Iniciar/Parar slideshow<br/>ESCAPE: Fechar a galeria<br/>HOME/END: Primeira/Гљltima imagem<br/>H - Este painel de ajuda",
+    "Slideshow" : "Iniciar",
+    "OriginalContext": "Veja no contexto original"
+}
